@@ -39,3 +39,5 @@ trial.innerHTML = myCars;
     
 // }
 // outomoble.innerHTML += "<ul>";
+
+let myName ="bibi";
